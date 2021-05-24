@@ -3,7 +3,7 @@ uvicorn==0.11.8
 torch==1.7.1
 transformers==4.3.3
 pytest==6.0.1
-spacy==3.0.0
+spacy==3.0.5
 pydantic==1.7.3
 sutime==1.0.1
 google-cloud-storage==1.26.0
@@ -11,3 +11,4 @@ phonenumbers==8.12.17
 denomme==0.3.1
 sentencepiece==0.1.95
 https://denomme.s3.us-east-2.amazonaws.com/xx_denomme-0.3.1/dist/xx_denomme-0.3.1.tar.gz
+pymongo==3.11.4
